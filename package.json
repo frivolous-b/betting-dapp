@@ -1,0 +1,26 @@
+{
+  "name": "testdapp2",
+  "version": "1.0.0",
+  "description": "\"# Coin-flip\" \r \"# Coin-flip\" \r \"# Coin-flip\"",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LcLtc/coin-flip-dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LcLtc/coin-flip-dapp/issues"
+  },
+  "homepage": "https://github.com/LcLtc/coin-flip-dapp#readme",
+  "dependencies": {
+    "truffle": "^5.1.30"
+  },
+  "devDependencies": {}
+}

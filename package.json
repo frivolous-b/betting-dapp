@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/LcLtc/coin-flip-dapp#readme",
   "dependencies": {
-    "truffle": "^5.1.30"
+    "truffle": "^5.7.9"
   },
   "devDependencies": {}
 }
